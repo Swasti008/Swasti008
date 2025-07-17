@@ -3,7 +3,8 @@
 <h3 align="center">Passionate about coding and tech exploration 💻🚀</h3>
 
 # 💫 About Me:
-🎓 B.Tech CSE Student at [Chitkara University](https://www.chitkara.edu.in/), Kalvium program<br>🏆 British Council English Score Core Skills (C1 Certificate) and Speaking B2 Certificate<br>🎨 Hobbies: Dancing, Painting, and Exploring Outer Space<br>💬 Ask me about Full Stack Development, MERN stack, and Space Exploration
+🎓 B.Tech CSE Student at [Chitkara University](https://www.chitkara.edu.in/), Kalvium program<br>💻 Currently interning at Clari Software Pvt. Limited as the Backend developer.
+<br>🏆 British Council English Score Core Skills (C1 Certificate) and Speaking B2 Certificate<br>🎨 Hobbies: Dancing, Painting, and Exploring Outer Space<br>💬 Ask me about Full Stack Development, MERN stack, and Space Exploration
 
 
 ## 🌐 Socials:
